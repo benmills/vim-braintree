@@ -1,6 +1,6 @@
 # vim-braintree
 
-This is a plugin that helps you develop your [Braintree]() integration while using vim.
+This is a plugin that helps you develop your [Braintree](http://developers.braintreepayments.com) integration while using vim.
 
 ## Setup
 
